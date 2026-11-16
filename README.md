@@ -10,16 +10,17 @@
 
 ## 🚀 About Me
 
-I'm a senior at San Francisco State University studying CS with a minor in math. I build things that solve real problems around me :)
+I'm a senior at San Francisco State University studying CS with a minor in math, and VP of SF Hacks. I build things that solve real problems around me :)
 
-- 🔭 **Working on:** Dream-Team, a team-matching app that finds your perfect hackathon fit, whether you're a first-timer or a veteran. Build without pressure, create without hesitation.
-- 🌱 **Learning:** the math behind AI matchmaking (embeddings, vector similarity) and shipping it as a Python microservice
+- 🔭 **Working on:** Dream-Team, a team-matching app for hackathons. Embedding-based matching is live (OpenAI embeddings + cosine similarity); now I'm redesigning it to form balanced teams of 4 based on availability, intent, roles, and experience, and getting it ready for real users at SF Hacks in February.
+- 🌱 **Learning:** system design, specifically how to keep team matching correct and fast as the user count grows
+- 🛠️ **Also built:** eBroke, a free-items-only campus marketplace for SFSU with photo-to-listing generation and semantic search
 - 👯 **Open to collaborating on:** hackathon projects, side hustles, LeetCode grinds, and ambitious ideas
-- 🤔 **Looking for help with:** becoming a cracked dev (system design and ML tips welcome)
-- 💬 **Ask me about:** matching algorithms, backend architecture, microservices, or running a hackathon
+- 🤔 **Looking for help with:** becoming a cracked dev (system design tips and Dream-Team beta testers welcome)
+- 💬 **Ask me about:** matching algorithms, embeddings, backend architecture, or running a hackathon
+- ✍️ **Writing:** a LinkedIn post every two weeks on what I'm learning from building Dream-Team
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I write my best code at 35,000 feet ✈️
-
 ### 🛠️ Tech Stack
 
 <p align="left">
