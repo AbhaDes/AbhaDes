@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=build%20with%20me%20%3C3" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-I am a senior at San Francisco State University doing math + cs. I build solutions to solve real problems around me :)
+I'm a senior at San Francisco State University studying CS with a minor in math. I build things that solve real problems around me :)
 
-🔭 &nbsp;I'm currently working on **Dream-Team, a team-matching app for hackathons that finds your perfect fit, whether you're a first-timer or a veteran. Build without pressure, create without hesitation.**  
-🌱 &nbsp;I'm currently learning **the math behind AI match making -- embeddings, vector similarity, and shipping it as a Python microservice**  
-👯 &nbsp;I'm looking to collaborate on **hackathon projects, side-hustles, leetcode, exciting ambition projects**  
-🤔 &nbsp;I'm looking for help with **being a cracked dev**  
-💬 &nbsp;Ask me about **matching algos, backend architecture, microservices, or running a hackathon :)**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I write my best code at 35,000 feet ✈️**
+- 🔭 **Working on:** Dream-Team, a team-matching app that finds your perfect hackathon fit, whether you're a first-timer or a veteran. Build without pressure, create without hesitation.
+- 🌱 **Learning:** the math behind AI matchmaking (embeddings, vector similarity) and shipping it as a Python microservice
+- 👯 **Open to collaborating on:** hackathon projects, side hustles, LeetCode grinds, and ambitious ideas
+- 🤔 **Looking for help with:** becoming a cracked dev (system design and ML tips welcome)
+- 💬 **Ask me about:** matching algorithms, backend architecture, microservices, or running a hackathon
+- 😄 **Pronouns:** she/her
+- ⚡ **Fun fact:** I write my best code at 35,000 feet ✈️
 
 ### 🛠️ Tech Stack
 
